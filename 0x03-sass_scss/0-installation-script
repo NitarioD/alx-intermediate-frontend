@@ -1,0 +1,4 @@
+I installed sass using the command:
+
+npm init
+npm install sass
